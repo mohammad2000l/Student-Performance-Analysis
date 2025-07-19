@@ -18,4 +18,4 @@ This project analyzes student performance data to understand overall academic ac
 1. Open the Python notebook file `student_performance_1.ipynb` in Jupyter Notebook or any compatible environment.  
 2. Place the data file `cleaned_data (1).csv` in the same folder as the notebook.  
 3. Run the notebook cells to perform the analysis and generate visualizations.  
-4. Open the Tableau dashboard file `dashboard.twbx` using Tableau Desktop to explore the interactive reports.
+4. Open the Tableau dashboard file `ٍStudent Performance.twbx` using Tableau Desktop to explore the interactive reports.
